@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    text-shadow: center;
+    background-color: aqua;
+    
+   
+    text-decoration-color: aqua;
+    border-radius: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    width: 1000px;
+    
+}
+h1{
+    box-shadow: inset 2px 3px 8px 9px rgba(1, 90, 255, 0.533);
+}
+
+h2 {
+    box-shadow: inset 4px 2px 5px 7px #8686;
+}
+h3{
+    box-shadow: inset 2px 6px 7px 3px #7474;
+}
+h5{
+    box-shadow: inset 2px 3px 8px #848;
+    font-size: large;
+    width: 1000px;
+    border-color: #848;
+    padding: 5%;
+    background:darkcyan;
+
+}
+div{
+    border-radius: 10%;
+    box-shadow: inset 5px 5px 15px rgba(0, 0, 0, 0.333);
+    padding: 50px;
+    border-radius: 10px;
+    border-color: blue;
+}
+img {
+    border-radius: 15px;
+    box-shadow: inset 3px 5px 5px 15px #ffffff44;
+    background-color: antiquewhite;
+  border-color:chartreuse;
+}
